@@ -5,7 +5,7 @@ function LoginPage() {
     <div>
       <h2>LoginPage</h2>
       <div>githook test</div>
-      <div>7</div>
+      <div>8</div>
     </div>
   );
 }
